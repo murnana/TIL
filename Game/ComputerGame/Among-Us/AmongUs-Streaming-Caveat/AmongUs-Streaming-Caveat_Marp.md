@@ -5,12 +5,18 @@ backgroundColor: black
 color: white
 ----
 
-# Among Us<br >生放送・動画での<br >注意点
+# Among Us<br />生放送・動画での<br />注意点
+
+---
+
+## Emergency Meeting、<br />Dead Body Report以外で<br />会話しない
+Among Usの基本的なルールです。
+特別なルールを課さない限り会話してはいけません。
 
 
 ---
 
-## ゲーム進行中、<br >幽霊になるまでネタばれ禁止
+## ゲーム進行中、<br />幽霊になるまでネタばれ禁止
 
 限られた情報でのみ議論をすることで
 ゲームがおもしろくなるため、
