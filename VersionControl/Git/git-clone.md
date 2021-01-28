@@ -14,7 +14,20 @@
 > [パーシャルクローンとシャロークローンを活用しよう - GitHubブログ](https://github.blog/jp/2021-01-13-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 
 
+
+### ブランチを指定してクローン
+
+```bash
+git clone --branch <branch> <repo>
+```
+`<branch>` はリモートブランチ名 (originは要らない).
+`<repo>` はリモートリポジトリへのURL.
+
+
+
+
 ## See also..
 - [パーシャルクローンとシャロークローンを活用しよう - GitHubブログ](https://github.blog/jp/2021-01-13-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 - [Get up to speed with partial clone and shallow clone - The GitHub Blog](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 - [Git clone: a data-driven study on cloning behaviors - The GitHub Blog](https://github.blog/2020-12-22-git-clone-a-data-driven-study-on-cloning-behaviors/)
+- [リモートから特定のブランチを指定してcloneする - Qiita](https://qiita.com/icoxfog417/items/5776e0f0f758f0f0e48a)
