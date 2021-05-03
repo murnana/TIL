@@ -11,6 +11,7 @@
 
 ## See also...
 - https://caitsithware.com/wordpress/archives/2227
+<!-- markdown-link-check-disable-next-line -->
 - https://forum.unity.com/threads/localization-tooling-getting-locale-in-editor.852250
 
 
