@@ -11,7 +11,8 @@
 
 ## See also...
 - https://caitsithware.com/wordpress/archives/2227
-- https://forum.unity.com/threads/localization-tooling-getting-locale-in-editor.852250/
+<!-- markdown-link-check-disable-next-line -->
+- https://forum.unity.com/threads/localization-tooling-getting-locale-in-editor.852250
 
 
 [UnityEditor.Localization.Editor.LocalizationAttribute]: https://docs.unity3d.com/ja/2019.4/ScriptReference/Localization.Editor.LocalizationAttribute.html
